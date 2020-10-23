@@ -4,6 +4,7 @@
     "firebase_url": "https://blood-bank-fd5db.firebaseio.com",
     "project_id": "blood-bank-fd5db",
     "storage_bucket": "blood-bank-fd5db.appspot.com"
+    "test" : "test-123"
   },
   "client": [
     {
